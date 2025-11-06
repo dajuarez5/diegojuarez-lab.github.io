@@ -13,10 +13,13 @@ title                    : "Diego Juarez"
 title_separator          : "-"
 name                     : &name "Diego Armando Juarez"
 description              : &description "Physics and computational science student specializing in numerical methods and scientific computing. I build and analyze simulations to solve complex problems."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+#url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+#baseurl                  : "" # the subpath of your site, e.g. "/blog"
+#repository               : "academicpages/academicpages.github.io"
+url          : "https://dajuarez5.github.io"
+baseurl      : "/diegojuarez-lab.github.io"           # your repo name (with leading /)
+repository   : "dajuarez5/diegojuarez-lab.github.io"  # owner/repo
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
