@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Diego Armando Juarez Rosales"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,7 +12,7 @@ redirect_from:
     <h2 style="color:#004080; margin-top:0;">👋 Hello everyone!</h2>
     <p style="color:#222; font-size:1.05em; margin:0;">
       Welcome to my academic portfolio! I’ll be uploading <b>presentations</b>, <b>posters</b>, and <b>future papers</b>.
-      I’ll also share <i>phonon simulations</i>, <i>GIFs</i>, and other visuals from my research journey.
+      I’ll also share <i>phonon simulations</i>, and other visuals from my research journey.
       I hope this page reflects my passion for science and my goal of becoming a dedicated researcher and scientist.
     </p>
   </div>
