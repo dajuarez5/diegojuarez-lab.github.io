@@ -18,9 +18,9 @@ semiconductor, and a multi-objective genetic algorithms used to test crystal sta
 
 <!-- Fallback links -->
 <p style="text-align:center;">
-  <a class="btn btn--primary" href="{{ '/files/utep.pdf' | relative_url }}" target="_blank">Open PDF</a>
+  <a class="btn btn--primary" href="{{ '/images/utep.pdf' | relative_url }}" target="_blank">Open PDF</a>
   &nbsp;|&nbsp;
-  <a href="{{ '/files/utep.pdf' | relative_url }}" download>Download PDF</a>
+  <a href="{{ '/images/utep.pdf' | relative_url }}" download>Download PDF</a>
 </p>
 
 
