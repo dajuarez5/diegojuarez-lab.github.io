@@ -48,7 +48,7 @@ a{ color: var(--tealgreen); }
 ## PROFESSIONAL SUMMARY 
 Physics and computational science student specializing in numerical methods and scientific computing. I build and analyze simulations to solve complex problems.
 
-## EDUCATION {: .cv-section}
+## EDUCATION 
 - **The University of Texas at El Paso — Ph.D. in Physics**  
   *Expected May 2028*
 - **The University of Texas at El Paso — M.S. in Physics**  
