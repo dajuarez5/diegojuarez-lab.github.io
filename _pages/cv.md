@@ -45,7 +45,7 @@ a{ color: var(--tealgreen); }
   </div>
 </div>
 
-## PROFESSIONAL SUMMARY {: .cv-section}
+## PROFESSIONAL SUMMARY 
 Physics and computational science student specializing in numerical methods and scientific computing. I build and analyze simulations to solve complex problems.
 
 ## EDUCATION {: .cv-section}
@@ -56,11 +56,11 @@ Physics and computational science student specializing in numerical methods and 
 - **Universidad Autónoma de Zacatecas — B.S. Physics (with honors)**  
   *May 2022*
 
-## DISSERTATION OR THESIS {: .cv-section}
+## DISSERTATION OR THESIS 
 - **Advanced Study of Nickel-Titanium Alloy: Effects of Point Defects on Mechanical and Thermodynamic Properties** — [Master’s Thesis](https://www.proquest.com/docview/3241232727?sourcetype=Dissertations%20&%20Theses)  
   *May 2025*
 
-## INTERNSHIPS, WORKSHOPS AND SCHOOLS {: .cv-section}
+## INTERNSHIPS, WORKSHOPS AND SCHOOLS 
 - **Participant — Nuclear Science in Texas to Enhance and Advance Mentees Summer School**  
   *University of Houston, Brookhaven National Laboratory (BNL)*  
   *May 2025 – July 2025*
@@ -77,7 +77,7 @@ Physics and computational science student specializing in numerical methods and 
   *Lawrence Berkeley National Laboratory (LBNL)*  
   *July 2024 – August 2024*
 
-## RESEARCH PRODUCTS {: .cv-section}
+## RESEARCH PRODUCTS 
 - **Oral Presentation**, 2025 APS Global Physics Summit  
   *Effect of Substitutional and Antisite Defects on the Mechanical and Thermal Properties of Shape-Memory Alloy NiTi* — [Abstract](https://summit.aps.org/events/MAR-C40/8)  
   *Category:* Machine Learning, High-Throughput, and Materials Discovery  
@@ -109,7 +109,7 @@ Physics and computational science student specializing in numerical methods and 
   *Co-author:* Jorge Munoz  
   *El Paso, TX • November 2025*
 
-## PROFESSIONAL EXPERIENCES {: .cv-section}
+## PROFESSIONAL EXPERIENCES 
 - **Teaching Assistant**, The University of Texas at El Paso  
   *Mechanics and Astronomy Laboratories*  
   *August 2023 – July 2024*
@@ -118,18 +118,18 @@ Physics and computational science student specializing in numerical methods and 
   *Under Prof. Jorge Muñoz, NSF Award 2213527: Spin-lattice interaction in paramagnetic cubic iron at high pressure*  
   *September 2024 – Present*
 
-## HONORS AND AWARDS {: .cv-section}
+## HONORS AND AWARDS 
 - **Algorithms for Multiphysics Models in the Post-Moore’s Law Era Workshop Travel Award:** \$900  
 - **2025 GERA Energy Workshop Travel Award:** \$500  
 - **UTEP Graduate School Conference Travel Award:** \$500  
 - **SHI Building Engagement 2025 (USRSE):** Selected and fully funded to participate in a program promoting diversity and inclusion in computational science and RSE.
 
-## CODES {: .cv-section}
+## CODES 
 - **UTEP-HELD:** [Utilities to Execute Pipelines — Harmonic Ensemble Lattice Dynamics](https://github.com/jamunozlab/UTEP-HELD)  
 - **UTEP-tedehamo:** [Utilities to Execute Pipelines — Temperature-dependent harmonic model](https://github.com/jamunozlab/UTEP-tedehamo)  
 - **MoSHEAHu:** [Most Stable High Entropy Alloy (HEA) Hunting](https://github.com/dajuarez4/MoSHEAHu.git)
 
-## CORE COMPETENCIES {: .cv-section}
+## CORE COMPETENCIES 
 <div class="kv">
   <span class="pill">C++</span>
   <span class="pill">NumPy</span>
