@@ -33,8 +33,9 @@
 #     url: /markdown/
 
 main:
-  - title: "Presentations & Posters"
-    url: /talks/
+  # - title: "Presentations & Posters"
+  #   url: /talks/
+  
   - title: "Research Projects"
     url: /portfolio/
   - title: "CV"
