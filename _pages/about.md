@@ -21,3 +21,17 @@ redirect_from:
          style="max-width:100%; border-radius:14px; box-shadow:0 0 15px rgba(0,0,0,0.18);" loading="lazy">
   </div>
 </div>
+
+
+<div style="display:grid; grid-template-columns: 1fr 1fr; gap:24px; align-items:center; background:#f5f8ff; padding:24px; border-radius:16px; border:2px solid #004080;">
+  <div>
+    <h2 style="color:#004080; margin-top:0;">👋 Hello everyone!</h2>
+    <p style="color:#222; font-size:1.05em; margin:0;">
+     Some of my work will be psted here, as this awesome phonon dispersion for GaAs-2D
+    </p>
+  </div>
+  <div style="text-align:center;">
+    <img src="{{ '/images/GaAs_phon.gif' | relative_url }}" alt="Phonon simulation animation"
+         style="max-width:100%; border-radius:14px; box-shadow:0 0 15px rgba(0,0,0,0.18);" loading="lazy">
+  </div>
+</div>
