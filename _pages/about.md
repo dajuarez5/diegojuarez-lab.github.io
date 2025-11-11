@@ -32,6 +32,7 @@ redirect_from:
   border-radius:16px;
   border:2px solid #004080;
 ">
+  
   <div>
     <h2 style="color:#004080; margin-top:0; font-size:1.8em; font-weight:700; margin-bottom:12px;">
       👋 Hello everyone!
@@ -81,7 +82,7 @@ redirect_from:
     </h2>
     <p style="color:#E0E0E0; font-size:1.05em; line-height:1.6; margin:0;">
       Explore my research on lattice vibrations and nanoscale behavior. Below, a visualization of the 
-      <b>phonon dispersion in 2D GaAs</b> — where atomic vibrations come alive.
+      <b>phonon dispersion in 2D GaAs</b>, where atomic vibrations come alive.
     </p>
   </div>
 
