@@ -65,6 +65,24 @@ redirect_from:
   border: 2px solid #004080;
   box-shadow: 0 0 20px rgba(0, 64, 128, 0.3);
 ">
+  <!-- Image first (left side) -->
+  <div style="text-align:center;">
+    <img 
+      src="{{ '/images/phon_disp_GaAs.gif' | relative_url }}" 
+      alt="Phonon dispersion animation for GaAs 2D" 
+      style="
+        max-width:100%;
+        border-radius:16px;
+        box-shadow:0 0 25px rgba(0,64,128,0.5);
+        transition: transform 0.3s ease;
+      "
+      onmouseover="this.style.transform='scale(1.03)'"
+      onmouseout="this.style.transform='scale(1)'"
+      loading="lazy"
+    >
+  </div>
+
+  <!-- Text second (right side) -->
   <div>
     <h2 style="color:#FFFFFF; font-size:1.8em; font-weight:700; margin-top:0; margin-bottom:12px; letter-spacing:0.5px;">
       ⚛️ Science in Motion
@@ -73,17 +91,6 @@ redirect_from:
       Explore my research on lattice vibrations and nanoscale behavior. Below, a visualization of the 
       <b>phonon dispersion in 2D GaAs</b>, where atomic vibrations come alive.
     </p>
-  </div>
-
-  <div style="text-align:center;">
-    <img 
-      src="{{ '/images/phon_disp_GaAs.gif' | relative_url }}" 
-      alt="Phonon dispersion animation for GaAs 2D" 
-      style="max-width:100%; border-radius:16px; box-shadow:0 0 25px rgba(0,64,128,0.5); transition: transform 0.3s ease;"
-      onmouseover="this.style.transform='scale(1.03)'"
-      onmouseout="this.style.transform='scale(1)'"
-      loading="lazy"
-    >
   </div>
 </div>
 
