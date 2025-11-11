@@ -22,9 +22,8 @@ redirect_from:
   </div>
 </div>
 
-</div>
 
-</div>
+<p style="margin-bottom: 20px;">
 
 <div style="display:grid; grid-template-columns: 1fr 1fr; gap:24px; align-items:center; background:#000000; padding:24px; border-radius:16px; border:2px solid #004080;">
   <div>
