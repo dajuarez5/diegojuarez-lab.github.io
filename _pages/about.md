@@ -25,7 +25,7 @@ redirect_from:
 
 <div style="display:grid; grid-template-columns: 1fr 1fr; gap:24px; align-items:center; background:#f5f8ff; padding:24px; border-radius:16px; border:2px solid #004080;">
   <div>
-    <h2 style="color:#004080; margin-top:0;">👋 Hello everyone!</h2>
+    <h2 style="color:#004080; margin-top:0;">Sience!</h2>
     <p style="color:#222; font-size:1.05em; margin:0;">
      Some of my work will be psted here, as this awesome phonon dispersion for GaAs-2D
     </p>
